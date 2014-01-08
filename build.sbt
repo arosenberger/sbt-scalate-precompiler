@@ -4,7 +4,7 @@ organization := "com.novus"
 
 name := "sbt-scalate-precompiler"
 
-version := "0.1.5-SNAPSHOT"
+version := "0.1.5"
 
 resolvers ++= Seq(
   "Novus Snapshots Repository" at "http://repo.novus.com/snapshots/",
